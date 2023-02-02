@@ -1,0 +1,21 @@
+p {
+    font-family: Georgia;
+    font-size: 1.5rem;
+    }
+  li { color: gray
+  }
+  li { font-style: italic
+  }
+  li { font-size: 1.5rem;
+    }
+  img {
+  width: 40%;
+  height: auto;
+}
+body {background-color:yellow;}
+img {
+  border: 5px solid orange;
+  display: block; 
+  margin: 1 auto;
+  width: 300px ;
+  }
